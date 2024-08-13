@@ -1,5 +1,5 @@
 # LangChain-Data-Science-Assistant
-Business Context
+### Business Context
 
 Large Language Models (LLMs) have revolutionized how we interact with technology by enabling natural and coherent conversations, significantly enhancing organizational productivity as helpful assistants. This development is a result of extensive processes:
 
